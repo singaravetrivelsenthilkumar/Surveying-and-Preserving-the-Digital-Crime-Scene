@@ -1,7 +1,7 @@
 # Surveying and Preserving the Digital Crime Scene
 
 ## **Aim:**
-     Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
+Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
 
 ## **Implementation steps:**
 
@@ -70,4 +70,4 @@
 ![](./images/a10.png)
 
 ## Result:
-Successfully extracted the deleted files from unallocated space.  
+Successfully extracted the deleted files from unallocated space using the Autospy tool.
