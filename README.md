@@ -14,7 +14,7 @@
 - Empty the **Recycle Bin** to permanently delete them.  
 
 ### **3. Recover Deleted Files Using Autopsy**  
-### ** Open Autopsy & Create a New Case** 
+### **Open Autopsy & Create a New Case** 
 
 - Launch **Autopsy** and **Run as a administrator**  
 - Click **Create New Case**.  
@@ -27,7 +27,7 @@
 
 ![](./images/a2.png)
 
-### ** Add the Virtual Disk as an Evidence Source**  
+### **Add the Virtual Disk as an Evidence Source**  
 - Click **Add Data Source**  → **Select Host**
 
 ![](./images/a3.png)
@@ -43,7 +43,7 @@
 - Click **Next** → Keep default settings → Click **Finish**.  
 - Wait for Autopsy to process the disk.  
 
-### ** Recover Deleted Files**  
+### **Recover Deleted Files**  
 - Go to **File Views** (left panel).  
 
 ![](./images/a6.png)
