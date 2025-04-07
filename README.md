@@ -1,7 +1,7 @@
 # Surveying and Preserving the Digital Crime Scene
 ```
-Name : Aakashraj M
-Reg.no: 212222100002
+Name : Singaravetrivel S
+Reg.no: 212222220048
 ```
 ## **Aim:**
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
